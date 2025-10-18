@@ -1,4 +1,4 @@
 # PROJECTS
-1.ARDUINO IDE(Intgrated Development Environment)
+1. ARDUINO IDE(Intgrated Development Environment)
 
-2.Selenium WebDriver
+2. JAVA
