@@ -12,4 +12,6 @@ Arduino can read commands from the computer by the user , the user need to write
 As a qa i used this language to check login textbox (password and username) of saucedemo website.
 I used selenium IDE webdrive to get in  "https://www.saucedemo.com/" .
 
-I checked every case 
+The qa need to think about all scenarios and check one by one to see what happend(valid or invalid)  
+
+I checked 8 tests cases that the user can not entered and at test case number nine the user entered the website and can buy products
