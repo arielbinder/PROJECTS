@@ -1,7 +1,7 @@
 # JAVA 
  As a qa automation I used this language to check login textbox (password and username) of saucedemo website. 
  
- I used selenium IDE webdrive click buttons, type text, navigate pages.
+ I used selenium IDE webdrive to: click buttons, type text, navigate pages.
 ## TRUTH TABLE
 In this project I used Inspect button (computer) to see the styles and elements of the website and after that I checked by myself if the test case is happend
 The qa need to think about all scenarios and check one by one to see what happend(valid or invalid)
