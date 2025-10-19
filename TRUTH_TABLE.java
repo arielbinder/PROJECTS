@@ -9,7 +9,9 @@ public class TRUTH_TABLE {
 		System.setProperty("webdriver.chorme.driver", "C:\\automation\\drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver(); 
 		driver.manage().window().maximize();
-		driver.get("https://www.saucedemo.com/"); 
+		
+		driver.get("https://www.saucedemo.com/"); // please open the website
+		// TEST CASES
 		tc1(driver, "standard_user", ""); 
 		tc2(driver, "", "secret_sauce"); 
 		tc3(driver, "ariel", "123456"); 
@@ -24,8 +26,8 @@ public class TRUTH_TABLE {
 	}
 
 	public static void LOGIN(WebDriver driver, String Username, String password) {
-		driver.navigate().refresh();
-		 try { Thread.sleep(1000); } catch (InterruptedException e) {}
+		driver.navigate().refresh(); 
+		 try { Thread.sleep(1000); } catch (InterruptedException e) {} // please wait 1 second
 
 		driver.findElement(By.cssSelector("[name='user-name']")).sendKeys(Username); 
 		driver.findElement(By.cssSelector("#password")).sendKeys(password); 
@@ -121,3 +123,4 @@ public class TRUTH_TABLE {
 }
 
 	
+
