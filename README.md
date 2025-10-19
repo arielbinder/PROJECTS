@@ -19,3 +19,4 @@ I used selenium IDE webdrive to get in  "https://www.saucedemo.com/" .
 The qa need to think about all scenarios and check one by one to see what happend(valid or invalid)  
 
 I checked 8 tests cases that the user can not entered and at test case number nine the user entered the website and can buy products
+the result of the test case is shown on the terminal after the user login successful (tc9)
