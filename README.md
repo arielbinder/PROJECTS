@@ -1,5 +1,5 @@
 # PROJECTS
-i used IDE to create two codes: ARDUINO+JAVA 
+I used IDE to create two codes: ARDUINO+JAVA 
 
 As a practical engineer of electronics i uses Arduino Mega 2560 board to connect componnets by wires  
 
