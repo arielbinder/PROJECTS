@@ -9,7 +9,7 @@ In addition, You can use Arduino as a coding language, you can write commands to
 
 Arduino can read commands from the computer by the user , the user need to write digitalread command.
 
-Java - As a qa i used this language to check login textbox (password and username) of saucedemo website.
+Java - As a qa automation i used this language to check login textbox (password and username) of saucedemo website.
 I used selenium IDE webdrive to get in  "https://www.saucedemo.com/" .
 
  Selenium is an IDE that allow the tester: click buttons, type text, navigate pages.
