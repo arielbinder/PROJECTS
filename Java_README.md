@@ -3,7 +3,10 @@
  
  I write my code on ECLIPSE IDE - Java devolopers debugger.
  
-in SELENIUM webdrive you can: click buttons, type text, navigate pages.
+ Seleneium: open-suorce framework , webdriver.
+
+ 
+
  
 ## TRUTH TABLE
 In this project I used Inspect button (computer) to see the styles and elements of the website and after that I checked by myself if the test case is happend
